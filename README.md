@@ -1,4 +1,4 @@
-- 👋 Opa, Eu sou @jotaven.
+- 👋 Opa, eu sou @jotaven.
 - 👀 Atualmente eu estou interessado em aprender JavaScript.
 - 🌱 Estou aprendendo a criar sites com HTML e CSS.
 - 💞️ Eu espero um dia trabalhar na area de Desenvolvimento Web, Jogos ou Hacking
