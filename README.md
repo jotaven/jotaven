@@ -3,7 +3,7 @@
 - 🌱 Estou aprendendo a criar sites com HTML e CSS.
 - 💞️ Eu espero um dia trabalhar na area de Back-end, Desenvolvimento Web, Jogos ou Hacking
 
-<div>
+<div align=center>
   <a href="https://github.com/jotaven">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaven&layout=compact&langs_count=7&theme=dracula"/>
 </div>
