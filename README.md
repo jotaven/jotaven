@@ -1,7 +1,7 @@
 - 👋 Opa, eu sou @jotaven.
 - 👀 Atualmente eu estou interessado em aprender Python.
-- 🌱 Estou aprendendo a criar sites com HTML e CSS.
-- 💞️ Eu espero um dia trabalhar na area de Back-end, Desenvolvimento Web, Jogos ou Hacking
+- 🌱 Estou aprendendo a desenvolver sites com PHP.
+- 💞️ Eu espero um dia trabalhar na area de Back-end.
 
 <div align=center>
   <a href="https://github.com/jotaven">
