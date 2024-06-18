@@ -9,6 +9,7 @@ def main():
     langs: list = ["Python", "C", "C++", "Java"]
 
     print(f"Hi, I'm {info} and I'm interested in {areas} using {langs}.")
+    print(f"Current learning IaC with Ansible and Terraform.")
 
 
 if __name__ == "__main__":
