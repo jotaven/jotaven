@@ -6,10 +6,10 @@
 def main():
     info: str = "João Victor"
     areas: list = ["Back-end", "DevOps", "Web", "Cloud"]
-    langs: list = ["Python", "C", "C++", "Java"]
+    langs: list = ["Python", "C", "C++", "Java", "PHP"]
 
     print(f"Hi, I'm {info} and I'm interested in {areas} using {langs}.")
-    print(f"Current learning IaC with Ansible and Terraform.")
+    print(f"Current learning Kubernetes on Google Cloud.")
 
 
 if __name__ == "__main__":
